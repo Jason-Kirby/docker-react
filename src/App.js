@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I'm in a dream
+          Have you ever questioned the nature of your reality?
         </a>
       </header>
     </div>
